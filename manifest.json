@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-128.png",
+      "src": "assets/icons/128 X 128 PEDIDOS.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "assets/icons/512 X 512 PEDIDOS.png",
       "sizes": "512x512",
       "type": "image/png"
     }
